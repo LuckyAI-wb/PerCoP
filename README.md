@@ -6,6 +6,6 @@ The code will be released after the publication of the paper.
 
 ## Knowledge graph
 
-![PerCoP Knowledge Graph](KG.png "PerCoP Knowledge Graph Overview")
+![PerCoP Knowledge Graph](Figures/KG.png "PerCoP Knowledge Graph Overview")
 
 
