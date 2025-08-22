@@ -1,7 +1,11 @@
 # PerCoP
 
-little：Toward Bias-Resilient Radiology Report Generation: Hierarchical Contrastive Learning and Adaptive Knowledge Graph Integration
+**Little：Rethinking X-Ray Report Generation: A Training-Free, Few-Shot Framework with Prompt Engineering and Structured Clinical Knowledge**
 
 The code will be released after the publication of the paper.
 
-## PerCoP
+## Knowledge graph
+
+![PerCoP Knowledge Graph](KG.png "PerCoP Knowledge Graph Overview")
+
+
